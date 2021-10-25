@@ -1,0 +1,5 @@
+variables = son los elementos que soportan la información o valores
+strings = es la herramienta que sirve para colocar datos en secuencia
+funciones = son los procedimientospara calcular un valor o realizar una tarea especifica
+declaraciones if = son condicionales que evaluan datos para tomar decisiones mediante operaciones
+valores booleanos = son los que definen falso o verdadero a un dato
